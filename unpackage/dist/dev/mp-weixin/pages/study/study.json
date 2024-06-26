@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "申研",
+  "usingComponents": {
+    "card": "../../components/card",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}
